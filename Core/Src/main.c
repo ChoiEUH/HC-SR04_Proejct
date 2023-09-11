@@ -31,8 +31,8 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-#define TRIG_PIN GPIO_PIN_15
-#define TRIG_PORT GPIOD
+#define TRIG_PIN GPIO_PIN_12
+#define TRIG_PORT GPIOF
 uint32_t IC_val1 = 0;
 uint32_t IC_val2 = 0;
 uint32_t diff = 0;
